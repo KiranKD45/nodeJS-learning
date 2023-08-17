@@ -2,7 +2,6 @@
   "name": "nodejs-learning",
   "version": "1.0.0",
   "description": "",
-  "type": "module",
   "main": "os.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
